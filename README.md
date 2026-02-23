@@ -25,4 +25,3 @@ The main objective of YourCare 24/7 is to simplify healthcare access by providin
 Developed as an academic project to demonstrate Android development and healthcare service integration.
 
 ![image alt](https://github.com/revan-21/YourCare-App/blob/0770ee4f32d61470e09fa4ceeabf0d2da8c562fd/Screenshot%202025-11-19%20171831.png)
-![image alt](https://github.com/revan-21/YourCare-App/blob/95a73c2e6cd352b854da9d6b82fdd00be8a16345/Screenshot%202025-11-19%20171953.png)
