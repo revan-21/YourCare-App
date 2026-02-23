@@ -1,4 +1,4 @@
-## YourCare 24/7 – Healthcare Assistance Android App
+## YourCare 24/7 – Healthcare Android App
 
 **YourCare 24/7** is an Android-based healthcare application designed to provide users with quick and reliable access to essential medical services. The app focuses on improving healthcare accessibility through a simple, secure, and user-friendly interface.
 
@@ -25,4 +25,4 @@ The main objective of YourCare 24/7 is to simplify healthcare access by providin
 Developed as an academic project to demonstrate Android development and healthcare service integration.
 
 ![image alt](https://github.com/revan-21/YourCare-App/blob/0770ee4f32d61470e09fa4ceeabf0d2da8c562fd/Screenshot%202025-11-19%20171831.png)
-![image alt](https://github.com/revan-21/YourCare-App/blob/9eb6409038fb3047c642495123e506dc28afa797/Screenshot%202025-11-19%20172336.png)
+![image alt](https://github.com/revan-21/YourCare-App/blob/95a73c2e6cd352b854da9d6b82fdd00be8a16345/Screenshot%202025-11-19%20171953.png)
